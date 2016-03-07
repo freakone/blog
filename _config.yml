@@ -1,0 +1,13 @@
+markdown: redcarpet
+highlighter: rouge
+permalink: /:title
+
+url: http://blog.gorski.pl
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed

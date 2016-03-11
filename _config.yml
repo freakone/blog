@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: rouge
 permalink: /:title
 
-url: http://blog.gorski.pl
+url: http://blog.gorski.pm
 baseurl:
 
 redcarpet:

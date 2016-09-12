@@ -11,3 +11,7 @@ After some digging I failed at founding some described industrial projects. I on
 
 http://modberry.techbase.eu/
 https://revolution.kunbus.com/
+
+# The preparations
+
+# The work
